@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ValidatorTester</string>
+    <string name="email">email</string>
+    <string name="alphabetical_text">alphabetical text</string>
+    <string name="no_alphabetical_text">no alphabetical text</string>
+    <string name="special_characters">special characters</string>
+    <string name="no_special_characters">no special characters</string>
+    <string name="meet_length_limit_requirement">meet length limit requirement</string>
+</resources>
